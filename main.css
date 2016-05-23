@@ -1,0 +1,9 @@
+ul.favorite-nba-players li {
+  color: red;
+  font-style: italic;
+  list-style-type: square;
+}
+
+.my-favorite {
+  color: black;
+}
